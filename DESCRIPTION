@@ -8,8 +8,5 @@ Description: Helper statistical functions.
 License: MIT
 Encoding: UTF-8
 LazyData: true
-
-
-
-
-
+URL: https://github.com/hamdiogut/SMStat
+BugReports: https://github.com/hamdiogut/SMStat/issues
