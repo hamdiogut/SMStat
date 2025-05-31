@@ -1,0 +1,15 @@
+Package: SMStat
+Type: Package
+Title: Statistical Tools
+Version: 0.1.0
+Author: Hamdi Ogut
+Maintainer: Hamdi Ogut <hamdi.ogut@btu.edu.tr>
+Description: Helper statistical functions.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+
+
+
+
+
